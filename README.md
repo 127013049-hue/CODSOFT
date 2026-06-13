@@ -11,7 +11,7 @@ To build a classification model that predicts survival based on passenger data s
 ---
 
 ## 📊 Dataset
-- Titanic Dataset: https://www.kaggle.com/c/titanic/data
+- Titanic Dataset: https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ---
 
