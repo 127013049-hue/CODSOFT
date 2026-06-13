@@ -1,45 +1,42 @@
-# CODSOFT - Data Science Internship Projects
+# Titanic Survival Prediction 🚢
 
-This repository contains the Machine Learning projects completed as part of the CodSoft Data Science Internship Program.
-
----
-
-## 📊 Projects Included
-
-### 1️⃣ Titanic Survival Prediction
-- Built a classification model to predict passenger survival on the Titanic.
-- Techniques used: Data Cleaning, Logistic Regression, Feature Engineering.
-
-### 2️⃣ Sales Prediction
-- Predicted product sales based on advertising data.
-- Techniques used: Linear Regression, Data Visualization.
-
-### 3️⃣ Credit Card Fraud Detection
-- Detected fraudulent transactions using machine learning.
-- Techniques used: Classification models, data balancing, evaluation metrics.
-
----
-
-## 🧠 Technologies Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
+## 📌 Project Overview
+This project predicts whether a passenger survived the Titanic disaster using machine learning techniques.
 
 ---
 
 ## 🎯 Objective
-To apply machine learning techniques to real-world datasets and improve data science skills.
+To build a classification model that predicts survival based on passenger data such as age, gender, ticket class, etc.
 
 ---
 
-## 📌 Dataset Sources
-- Titanic Dataset: Kaggle
-- Sales Dataset: Advertising data
-- Fraud Dataset: https://www.kaggle.com/mlg-ulb/creditcardfraud
+## 📊 Dataset
+- Titanic Dataset: https://www.kaggle.com/c/titanic/data
+
+---
+
+## 🛠️ Techniques Used
+- Data Cleaning
+- Handling Missing Values
+- Feature Engineering
+- Logistic Regression Model
+- Model Evaluation
+
+---
+
+## 🧠 Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+---
+
+## 📈 Outcome
+A machine learning model capable of predicting passenger survival with reasonable accuracy.
 
 ---
 
 ## 🚀 Author
-CodSoft Internship Project Submission
+CODSOFT Data Science Internship Project
